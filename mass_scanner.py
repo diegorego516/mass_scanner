@@ -1,21 +1,25 @@
-import os                       
+import os
 import sys
-import nmap                                                 
-def nmap(os,sys):
+import nmap
 
-        if nmap in ports:
+nmap = mass_scanner(os,sys)
 
-                def nmap(os,sys):
-# Aqui é onde nós criamos a função do mass_scanner
+if nmap in ports:
 
-                        criar = mass_scanner()
-def mass_scanner():
-                                                                    if mass_scanner in ports(nmap):
-                                                                            mass_scan(in_ports);
-                                                            def scan():                                                                 nmap = scan in open_ports("1-65535")                        print("Escolha uma opção de 1-5")                           input = opção("1. Escanear Por Portas Abertas ('1-65535'): ")
-                input = opção("2. Verificar se há vulnerabilidades nas portas abertas? ('S/N'): ")
-                input = opção("3. Gerar um relatório de log? ('S/N'): ")
-                input = opção("4. Enviar o relatório detalhado para especialistas de cíbersegurança? ('S/N'): ")
-                input = opção("5. Sair: ")
-                sys.exit(0)
-                print("Saindo...")
+nmap = mass_scanner.scan(open_ports)
+nmap = mass_scanner.recon(network_ipv4)
+nmap = mass_scanner.audit(search_vulnerability_databases)
+
+if mass_scanner in ports:
+create = mass_scanner()
+
+if mass_scanner in vulnerabilities:
+start_server = ("127.0.0.1")
+start_client = ("5000")
+
+if __name__ == "__main__":
+   start_server():
+
+commands = mass_scanner.py(ip_scanner):
+commands = mass_scanner.py(recon_audit):
+commands = mass_scanner.py(network_analyzer):
