@@ -1,24 +1,32 @@
-import nmap
 import os
 import sys
+import nmap
 
-def nmap3(os, sys):
+def port():
 
-		if port in ports: 
+        if port in nmap:
 
-			criar = mass_scanner()
-def init_mass_scanner(os,sys):
-	self = init_mass_scanner(os,sys)
-print("\nInicialisando o mass_scanner...")
-escolha = input ("Escolha as opções de ('1-3'): ")
-print("1. Escanear Portas: ('1-65535'): ")
-print("2. Verificar se há portas abertas: ")
-print("3. Sair: ")
-sys.exit(0)
-print("Saindo...")
-if escolha_input("int(input == ('1-3'): "):
-	input("1. Escanear Portas: ('1-65535'): ")
-	input("2. Verificar se há portas abertas: ")
-	input("3. Sair: ")
-	sys.exit(1)
-	print("Saindo do sistema...")
+                def nmap(os, sys):
+# Aqui é onde nós criamos a função do mass_scanner
+
+                        scriar_função, criar = mass_scanner()
+def mass_scanner():
+
+        if mass_scanner in ports (nmap):
+
+         mass_scan(in_ports);
+
+def scan():
+
+        nmap = scan in open_ports(1-65535);
+
+opções = input ("Escolha a opção de ('1-5'): ")
+print("\nInicialisando o mass scanner...")
+if input == opções("1-5"):
+        input = opção("1. Escanear Por Portas Abertas (1-65535): ")
+        input = opção("2. Verificar se há vulnerabilidades em sistemas operacionais: ")
+        input = opção("3. gerar um relatório de log ('Y/N'): ")
+        input = opção("4. Enviar o relatório detalhado de vulnerabilidades para especialistas em cibersegurança: ")
+        input = opção("5. Sair: ")
+        sys.exit(0)
+        print("Saindo...")
