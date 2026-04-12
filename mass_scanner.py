@@ -1,4 +1,5 @@
-import os                                                   import sys
+import os                       
+import sys
 import nmap                                                 
 def nmap(os,sys):
 
